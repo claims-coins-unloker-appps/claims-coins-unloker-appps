@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 364.2 526" style="enable-background:new 0 0 364.2 526;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#889390;stroke-width:3;}
+	.st1{fill:none;stroke:#01775D;stroke-width:3;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st3{fill:url(#SVGID_00000100343540781871792910000006558327329878044604_);}
+	.st4{fill:#FFFFFF; animation: starLight 3s infinite;}
+    .st5{fill:#FFFFFF; animation: starDark 3s infinite;}
+    @keyframes starLight {
+        0% {opacity: 1;}
+        50% {opacity: 0;}
+        100% {opacity: 1;}
+    }
+    @keyframes starDark {
+        0% {opacity: 0;}
+        50% {opacity: 1;}
+        100% {opacity: 0;}
+    }
+    @keyframes logoUp {
+        0% {transform: translateY(-25px);}
+        50% {transform: translateY(0px);}
+        100% {transform: translateY(-25px);}
+    }
+    #mainicon {
+        animation: logoUp 5s infinite;
+    }
+</style>
+<g id="mainicon">
+	<g id="OBJECTS">
+		<g id="logo">
+			<line class="st0" x1="341.5" y1="346.2" x2="302.7" y2="384.9"/>
+			<line class="st0" x1="272.8" y1="345.3" x2="234" y2="384.1"/>
+			<path class="st0" d="M35.2,161.2l67.9-70.1V233l-67.9,70.1V161.2z"/>
+			<path class="st0" d="M315,372.3C314.3,449,252,511,175.3,511C98.1,511,35.5,448.3,35.5,371v-69.4h67.9V371
+				c0.4,39.7,33,71.5,72.6,71.1c38.6-0.4,69.9-31.2,71-69.7H315z"/>
+			<path class="st1" d="M105.3,230.9h207.9l-67.9,68H37.4L105.3,230.9z"/>
+			<path class="st0" d="M48.4,148l67.9-70.1v141.9l-67.9,70.1V148z"/>
+			<path class="st0" d="M327.6,359.6c-0.7,76.8-63,138.8-139.7,138.8c-77.2,0-139.7-62.7-139.7-140.1v-69.4H116v69.4
+				c0.4,39.7,33,71.5,72.6,71.1c38.6-0.4,69.9-31.2,71-69.7L327.6,359.6z"/>
+			<path class="st1" d="M117.9,218.2h207.9l-67.9,68.1H50L117.9,218.2z"/>
+			<path class="st1" d="M128.5,207.7h207.9l-67.9,68.1H60.6L128.5,207.7z"/>
+			<path class="st0" d="M61.6,134.5l67.9-69.8V206l-67.9,69.8V134.5z"/>
+			<path class="st0" d="M341.2,346.1c-0.7,76.8-63,138.7-139.7,138.7c-77.2,0-139.7-62.7-139.7-140.1v-69.4h67.9v69.4
+				c0.4,39.7,33,71.5,72.6,71.1c38.6-0.4,69.9-31.2,71-69.7L341.2,346.1z"/>
+			
+				<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="163.9223" y1="1110.0824" x2="161.2781" y2="1517.7285" gradientTransform="matrix(1 0 0 1 0 -1043.25)">
+				<stop  offset="0" style="stop-color:#DBDBDB"/>
+				<stop  offset="1" style="stop-color:#FFFFFF"/>
+			</linearGradient>
+			<path class="st2" d="M92,242.2V100.8l-70.5,70.7v212c0,78.1,63.2,141.4,141,141.4s141-63.3,141-141.4h-70.5
+				c0,38.9-31.6,70.5-70.5,70.5S92,422.6,92,383.6v-70.7H21.5L92,242.2z"/>
+			
+				<linearGradient id="SVGID_00000083061763331739182420000014983921492612140434_" gradientUnits="userSpaceOnUse" x1="172.7101" y1="1431.1752" x2="146.9557" y2="1150.2916" gradientTransform="matrix(1 0 0 1 0 -1043.25)">
+				<stop  offset="0" style="stop-color:#57F6DE"/>
+				<stop  offset="1" style="stop-color:#06CB73"/>
+			</linearGradient>
+			<path style="fill:url(#SVGID_00000083061763331739182420000014983921492612140434_);" d="M303.7,242.2l-70.5,70.7H21.5L92,242.2
+				H303.7z"/>
+		</g>
+		<path class="st4" d="M255.5,123.1c0,0,0-25.6,19-25.6c-19,0-19-25.6-19-25.6s0,25.6-19,25.6C255.5,97.5,255.5,123.1,255.5,123.1z"
+			/>
+		<path class="st5" d="M292.1,140.7c0,0,0-11.5,8.8-11.5c-8.8,0-8.8-11.5-8.8-11.5s0,11.5-8.8,11.5
+			C292.1,129.3,292.1,140.7,292.1,140.7z"/>
+	</g>
+</g>
+</svg>
